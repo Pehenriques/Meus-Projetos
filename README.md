@@ -1,5 +1,4 @@
 # Meus-Projetos
 
-Repositorio para colocar atividades, mini projetos e aventuras dentro das linguagens de Programação
-- Advpl
+Repositorio para colocar atividades, mini projetos e aventuras dentro da linguagem de Programação Advpl
 
